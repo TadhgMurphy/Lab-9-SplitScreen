@@ -1,0 +1,22 @@
+﻿  ViewSplitScreenMiniMap.cpp
+C:\Users\tadhg\Desktop\College\Second-Year\Motion-Graphics\Labs\Lab-9-SplitScreen\Lab-9-SplitScreen\Lab-9-SplitScreen\ViewSplitScreenMiniMap.cpp(47,65): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\tadhg\Desktop\College\Second-Year\Motion-Graphics\Labs\Lab-9-SplitScreen\Lab-9-SplitScreen\Lab-9-SplitScreen\ViewSplitScreenMiniMap.cpp(47,41): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\tadhg\Desktop\College\Second-Year\Motion-Graphics\Labs\Lab-9-SplitScreen\Lab-9-SplitScreen\Lab-9-SplitScreen\ViewSplitScreenMiniMap.cpp(51,65): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\tadhg\Desktop\College\Second-Year\Motion-Graphics\Labs\Lab-9-SplitScreen\Lab-9-SplitScreen\Lab-9-SplitScreen\ViewSplitScreenMiniMap.cpp(51,41): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  Lab-9-SplitScreen.vcxproj -> C:\Users\tadhg\Desktop\College\Second-Year\Motion-Graphics\Labs\Lab-9-SplitScreen\Lab-9-SplitScreen\Debug\Lab-9-SplitScreen.exe
